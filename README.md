@@ -11,6 +11,7 @@ El experimento se desarrolló en el SENA-Centro Agropecuario de Buga, como una a
 Se plantaron 1.440 semillas de pimentón en 12 bandejas de germinación de 10x12.
 
 Contenido
+
 En el repositorio encontramos 7 archivos producto de lo aprendido durante el curso:
 Archivo de Excel con los registros del experimiento.
 Archivos CSV obtenidos en el ejercicio de la libreria sqlite de Python.
