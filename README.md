@@ -10,6 +10,13 @@ El experimento se desarrolló en el SENA-Centro Agropecuario de Buga, como una a
 
 Se plantaron 1.440 semillas de pimentón en 12 bandejas de germinación de 10x12.
 
+Contenido
+En el repositorio encontramos 7 archivos producto de lo aprendido durante el curso:
+Archivo de Excel con los registros del experimiento.
+Archivos CSV obtenidos en el ejercicio de la libreria sqlite de Python.
+Archivo PDF con las especificaciones de que tiene cada tratamiento en los cultivos.
+Archivo ipynb con codigo de los graficos y ejercicios CRUD de SQL.
+
 Estructura de los datos
 
 Los datos se estructuran en una tabla construida a partir de formularios de seguimiento que se le hicieron al cultivo en 3 etapas:
