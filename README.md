@@ -1,25 +1,24 @@
-# PimentonCAB
-Analisis Fertilizacion de Pimenton
-Fuente de los datos Los datos que se estudiaron se obtivieron de los registros realizados a un cultivo de pimenton que se sometio a 4 tratamientos de fertilizacion.
+Fuente de los datos
 
-el objetivo es determinar la fertilizacion mas productiva para el cultivo de pimenton.
+Los datos que se estudiaron se obtuvieron de los registros realizados a un cultivo de pimentón que se sometió a 4 tratamientos de fertilización.
 
-Contexto y obtencion de los datos 
-El experimiento se desarrollo en el SENA-Centro Agropecuario de Buga, como una actividad de formacion entre aprendices e instructores en el area de agropecuaria.
+el objetivo es determinar la fertilización mas productiva para el cultivo de pimentón.
 
-Se plantaron 1.440 semillas de pimenton en 12 bandejas de germinacion de 10x12.
+Contexto y obtención de los datos
 
-En el repositorio se encuentra un PDF que explica especificaciones de los tratamimientos y los recursos usados para el experimiento.
-Archivo de Excel que contiene los datos estudiados.
-Archivos csv, obtenidos por los ejercicios de sqlite3 de python, donde se segmentarons lo datos y se limpiaron los ceros.
-Archivos ipynb donde se encuentra el codigo de graficacion y ejerccios CRUD de SQL en Python.
+El experimento se desarrolló en el SENA-Centro Agropecuario de Buga, como una actividad de formación entre aprendices e instructores en el área de agropecuaria.
 
-Estructura de los datos 
+Se plantaron 1.440 semillas de pimentón en 12 bandejas de germinación de 10x12.
+
+Estructura de los datos
+
 Los datos se estructuran en una tabla construida a partir de formularios de seguimiento que se le hicieron al cultivo en 3 etapas:
 
-1.Germinacion: En esta etapa se mide con variable binaria si la semilla germina, 1 para germina y 0 para no germina.
-2.Crecimiento: En esta fase se revisa la creacion de biomasa en gramos de la planta en la raiz y el tallo, para conocer la potencialidad de crecimiento.
-3.Cosecha: Se hace seguimiento con medidas de peso y volumen del fruto para valorar la produccion de la planta.
+Germinación: En esta etapa se mide con variable binaria si la semilla germina, 1 para germina y 0 para no germina.
+
+Crecimiento: En esta fase se revisa la creación de biomasa en gramos de la planta en la raíz y el tallo, para conocer la potencialidad de crecimiento.
+
+Cosecha: Se hace seguimiento con medidas de peso y volumen del fruto para valorar la producción de la planta.
 
 Contamos con 1440 registros en 16 columnas con variables tipo FLOAT, INT y TEXT. 
 
