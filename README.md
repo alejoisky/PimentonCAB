@@ -23,4 +23,4 @@ Los datos se estructuran en una tabla construida a partir de formularios de segu
 
 Contamos con 1440 registros en 16 columnas con variables tipo FLOAT, INT y TEXT. 
 
-En conclusión, la planta si mejora su productividad si se somete a un tratamiento de fertilización y aunque la cascarilla de arroz genere los frutos mas grandes por su variación no es muy conveniente para presupuestar una producción, somo si lo es el tratamiento con arena que genera pesos de fruta mas estandarizados, controlables y predecibles para una producción de pimentón.
+En conclusión, la planta si mejora su productividad si se somete a un tratamiento de fertilización y aunque la cascarilla de arroz genere los frutos mas grandes, por su variación no es muy conveniente para presupuestar una producción, somo si lo es el tratamiento con arena que genera pesos de fruta mas estandarizados, controlables y predecibles para una producción de pimentón.
